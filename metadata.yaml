@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '33868'
     url: http://www.gutenberg.org/2009/agents/33868
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/29357#Our-Young-Folks-at-Home-and-Abroad
 gutenberg_issued: '2009-07-08'
 gutenberg_type: Text
 identifiers:
